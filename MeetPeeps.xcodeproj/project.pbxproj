@@ -43,7 +43,7 @@
 		F2199C05170C618400EDAEB0 /* testAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testAppDelegate.m; sourceTree = "<group>"; };
 		F2199C0C170C618400EDAEB0 /* MeetPeepsTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeetPeepsTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2199C0D170C618400EDAEB0 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		F2199C15170C618400EDAEB0 /* MeetPeepsTests-Info.plist */ = {isa = PBXFileReference; path = "MeetPeepsTests-Info.plist"; sourceTree = "<group>"; };
+		F2199C15170C618400EDAEB0 /* MeetPeepsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MeetPeepsTests-Info.plist"; sourceTree = "<group>"; };
 		F2199C17170C618400EDAEB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F2199C19170C618400EDAEB0 /* MeetPeepsTests.h */ = {isa = PBXFileReference; path = MeetPeepsTests.h; sourceTree = "<group>"; };
 		F2199C1A170C618400EDAEB0 /* MeetPeepsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MeetPeepsTests.m; sourceTree = "<group>"; };
